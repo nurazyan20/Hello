@@ -1,7 +1,7 @@
 Create project from spring initialzr
 cmd : mvnw spring-boot:run
 http://localhost:8080
-Greetings from Spring Boot!
+Output : Greetings from Spring Boot!
 http://localhost:8080/actuator/health
 http://localhost:8080/actuator
 
